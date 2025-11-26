@@ -1,1 +1,34 @@
-node_modules
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+
+# ML Datasets & Models
+*.yml
+*.pickle
+*.pkl
+*.h5
+*.onnx
+*.csv
+*.xlsx
+app/data/dataset/
+app/data/models/
+
+# Face Recognition Data
+haarcascade*
+sample_attendance.xlsx
+
+# Node / Next.js
+node_modules/
+.next/
+dist/
+npm-debug.log
+
+# Virtual env inside folders
+atm1/.venv/
+
+# OS/Junk
+Thumbs.db
+.DS_Store
