@@ -105,7 +105,7 @@ python app/export_csv.py
 
 ## 📁 Dataset & Model Download
 
-* 📦 Dataset and  🤖 Trained Model: `https://github.com/pranayr710/AttendAI-Smart-Face-Recognition-Attendance-System/releases/tag/v1.0`
+* 📦 Dataset and  🤖 Trained Model: https://github.com/pranayr710/AttendAI-Smart-Face-Recognition-Attendance-System/releases/tag/v1.0
 
 
 
