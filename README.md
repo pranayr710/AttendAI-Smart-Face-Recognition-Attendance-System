@@ -105,10 +105,7 @@ python app/export_csv.py
 
 ## 📁 Dataset & Model Download
 
-> *(Add links when uploaded — GitHub Releases recommended)*
-
-* 📦 Dataset: `Coming soon`
-* 🤖 Trained Model: `Coming soon`
+* 📦 Dataset and  🤖 Trained Model: `https://github.com/pranayr710/AttendAI-Smart-Face-Recognition-Attendance-System/releases/tag/v1.0`
 
 
 
